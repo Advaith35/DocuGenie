@@ -33,7 +33,7 @@ DocuGenie is a Streamlit-based application that transforms your static PDF docum
 ---
 
 ### 🧠 Auto-Generate MCQs & Take Quizzes
-![MCQ Generator](screenshots/mcq_generator.png)
+![MCQ Generator](screenshots/mcq_generation.png)
 
 ---
 
