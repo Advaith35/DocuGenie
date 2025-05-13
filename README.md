@@ -124,5 +124,5 @@ DocuGenie/
 
 ## 🧠 Credits
 
-Developed by [Your Name]  
+Developed by Advaith Reddy  
 Powered by LangChain, Gemini, and Streamlit
